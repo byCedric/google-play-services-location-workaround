@@ -1,0 +1,6 @@
+{
+  "extends": "../sdk-41/node_modules/expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true
+  }
+}
